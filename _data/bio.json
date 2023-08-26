@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "sukwenruan", "url": "http://github.com/sukwenruan" },
-      { "network": "linkedin", "username": "sukwenruan", "url": "http://linkedin.com/in/sukwenruan" },
-      { "network": "instagram", "sequinnsuu": "molly", "url": "http://instagram.com/sequinnsuu" }
+      { "network": "linkedin", "username": "sukwenruan", "url": "http://linkedin.com/in/sukwenruan" }
     ]
   },
   "interests": [
