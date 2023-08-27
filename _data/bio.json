@@ -23,15 +23,15 @@
   "skills": [
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Google Workspace", "Microsoft Office" ]
+      "keywords": [ "MacOS", "Microsoft Office", "Google Workspace", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa",
-      "area": "Marketing and Management Information Systems (expected Spring, 2026)",
+      "area": "Marketing and Management Information Systems",
       "studyType": "B.B.A.",
-      "startDate": "2022-08-21",
+      "startDate": "2022-08",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,11 +42,12 @@
       "company": "Crystal Clear Communications",
       "position": "Public Relations Intern",
       "website": "",
-      "startDate": "2023-05-11",
-      "endDate": "2023-08-07",
-      "summary": "",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Collaborated with diverse clients to implement social media promotions, content calendars, and other marketing materials using copywriting, media relations, and design.",
       "highlights": [
-        "Collaborated with diverse clients to implement social media promotions, content calendars, and other marketing materials using copywriting, media relations, and design."
+        "Established content for clients to build a highly engaged social following across various social media platforms",
+        "Networked with a team to deliver efficient and satisfactory services when hosting media events and promotions"
       ]
     }
   ],
@@ -56,7 +57,7 @@
       "date": "2022-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to first-time degree-seeking students who maintain a 3.8 GPA."
-    },
+    }
   ],
   "references": [
     {
