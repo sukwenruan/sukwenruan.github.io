@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Suk Wen Ruan",
+    "label": "Shidler Undergraduate",
+    "picture": "https://github.com/sukwenruan.png",
+    "email": "sukwenru@hawaii.edu",
+    "phone": "808-384-6433",
+    "website": "https://sukwenruan.github.io",
+    "summary": "I am studying for a B.B.A. in Marketing and Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "sukwenruan", "url": "http://github.com/sukwenruan" },
+      { "network": "linkedin", "username": "sukwenruan", "url": "http://linkedin.com/in/sukwenruan" }
+    ]
+  },
+  "interests": [
+    { "name": "Marketing Research" },
+    { "name": "Design" },
+    { "name": "Digital Media" },
+    { "name": "Music" }
+  ],
+  "skills": [
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Microsoft Office", "Google Workspace", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa",
+      "area": "Marketing and Management Information Systems",
+      "studyType": "B.B.A.",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Crystal Clear Communications",
+      "position": "Public Relations Intern",
+      "website": "",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Collaborated with diverse clients to implement social media promotions, content calendars, and other marketing materials using copywriting, media relations, and design.",
+      "highlights": [
+        "Established content for clients to build a highly engaged social following across various social media platforms",
+        "Networked with a team to deliver efficient and satisfactory services when hosting media events and promotions"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to first-time degree-seeking students who maintain a 3.8 GPA."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
